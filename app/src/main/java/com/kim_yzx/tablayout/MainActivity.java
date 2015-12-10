@@ -17,8 +17,10 @@ public class MainActivity extends AppCompatActivity {
     private TabLayout mTabLayout;
 
     //viewPager
+    //侧滑控件
     private ViewPager mViewPager;
 
+    //5.0新特性
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
