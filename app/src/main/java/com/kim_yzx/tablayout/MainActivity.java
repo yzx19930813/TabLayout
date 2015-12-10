@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
    //游标
     private TabLayout mTabLayout;
 
+    //侧滑控件
     private ViewPager mViewPager;
 
     //5.0新特性
